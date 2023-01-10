@@ -1,11 +1,15 @@
 {
   "name": "@andfaulkner/pm2-auto-pull",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "PM2 module to auto pull applications when there is an update",
   "main": "app",
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andfaulkner/pm2-auto-pull.git"
   },
   "dependencies": {
     "async": "*"
