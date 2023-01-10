@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "pmx": "latest",
-    "pm2": "2.x",
     "async": "*",
     "debug": "*"
+  },
+  "peerDependencies": {
+      "pm2": ">=2"
   },
   "apps": [
     {
