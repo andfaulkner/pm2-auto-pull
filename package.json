@@ -1,8 +1,9 @@
 {
   "name": "@andfaulkner/pm2-auto-pull",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "PM2 module to auto pull applications when there is an update",
   "main": "app",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
