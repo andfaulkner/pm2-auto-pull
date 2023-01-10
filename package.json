@@ -7,12 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "pmx": "latest",
     "async": "*",
     "debug": "*"
   },
   "peerDependencies": {
-      "pm2": ">=2"
+      "pm2": ">=2",
+      "pmx": ">=1"
   },
   "apps": [
     {
